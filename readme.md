@@ -44,7 +44,7 @@ Clone this repository to your local machine:
 git clone https://github.com/PraTEEkgUpTa2/MetaOffice.git
 ```
 
-This will create a folder named `SkyOffice`. You can specify a different folder name like this:
+This will create a folder named `MetaOffice`. You can specify a different folder name like this:
 
 ```bash
 git clone https://github.com/PraTEEkgUpTa2/MetaOffice.git my-folder-name
